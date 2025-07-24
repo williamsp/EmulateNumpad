@@ -2,7 +2,7 @@
 
 [English](README.md) | **Bahasa Indonesia**
 
-Skrip AutoHotkey ini memungkinkan Anda mengemulasi landasan tombol numerik (numpad) pada papan tombol yang lebih kecil, seperti yang biasa ditemukan pada komputer jinjing (laptop), yang tidak dilengkapi tombol-tombol ini.
+Skrip AutoHotkey v2 ini memungkinkan Anda mengemulasi landasan tombol numerik (numpad) pada papan tombol yang lebih kecil, seperti yang biasa ditemukan pada komputer jinjing (laptop), yang tidak dilengkapi tombol-tombol ini.
 
 ## Latar belakang
 Pemutar multimedia dan program 3D biasanya menggunakan pintasan (shortcut) numpad untuk memindahkan, mengubah ukuran, dan memutar objek, seperti:
@@ -35,6 +35,10 @@ Pastikan Caps Lock menyala, lalu gunakan Shift untuk memodifikasi tombol.
 | **M**<br>Numpad 0 | **,**<br>C (Bersih) | **.**<br>. (Desimal) |
 
 ## Cara menggunakan
+
+Jalankan "EmulateNumpad.exe" di Windows.
+
+**atau**
 
 1. Unduh skrip "EmulateNumpad.ahk".
 2. Unduh dan pasang program AutoHotkey dari https://www.autohotkey.com/.

@@ -2,7 +2,7 @@
 
 **English** | [Bahasa Indonesia](README.id.md)
 
-This AutoHotkey script lets you emulate a numeric keypad (numpad) on smaller keyboards, such as those found on laptops, that lack these keys.
+This AutoHotkey v2 script lets you emulate a numeric keypad (numpad) on smaller keyboards, such as those found on laptops, that lack these keys.
 
 ## Background
 Multimedia players and 3D programs usually use numpad shortcuts to move, resize, and rotate an object, such as:
@@ -35,6 +35,10 @@ Make sure the Caps Lock is on, then use Shift to modify the key.
 | **M**<br>Numpad 0 | **,**<br>C (Clear) | **.**<br>. (Dot) |
 
 ## How to use
+
+Run "EmulateNumpad.exe" on Windows.
+
+**or**
 
 1. Download "EmulateNumpad.ahk" script.
 2. Download and install AutoHotkey program from https://www.autohotkey.com/.

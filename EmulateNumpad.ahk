@@ -43,4 +43,4 @@ remapAlt(r) {
 	Send "{Alt down}" keyMap[key][idx] "{Alt up}"
 }
 
-#+F23::#n
+; #+F23::#n
