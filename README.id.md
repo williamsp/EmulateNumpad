@@ -21,7 +21,7 @@ Pemutar multimedia dan program 3D biasanya menggunakan pintasan (shortcut) numpa
 | Alt+Numpad 2 dan 8  | Balik secara vertikal (putar sumbu X)     |
 | Alt+Numpad 1 dan 3  | Putar lawan/arah jarum jam (putar sumbu Z)|
 
-Jika komputer kita tidak memiliki tombol-tombol di atas, kita terpaksa harus mengakses fungsi-fungsi ini dari menu sehingga memperlambat pekerjaan kita. Oleh karena itulah, skrip ini saya ciptakan.
+Jika komputer kita tidak memiliki tombol-tombol di atas, kita terpaksa harus mengakses fungsi-fungsi ini dari menu sehingga memperlambat pekerjaan kita. Saya pun sempat mencoba beberapa program serupa di luar sana, sayangnya mereka hanya bisa menekan tombol Numpad nya saja, tidak bisa digabungkan dengan Ctrl atau Alt. Oleh karena itulah, skrip ini saya ciptakan.
 
 ## Pemetaan tombol
 

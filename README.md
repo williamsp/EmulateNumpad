@@ -21,7 +21,7 @@ Multimedia players and 3D programs usually use numpad shortcuts to move, resize,
 | Alt+Numpad 2 and 8  | Flip vertically (rotate X axis)         |
 | Alt+Numpad 1 and 3  | Rotate CCW/CW (rotate Z axis)           |
 
-If our computer lacks those keys, we must access these functions through the menu instead, which slows down our work. Hence, I created this script.
+If our computer lacks those keys, we must access these functions through the menu instead, which slows down our work. I also tried several similar programs out there, unfortunately they can only press the Numpad button, it cannot be combined with Ctrl or Alt. Hence, I created this script.
 
 ## Key mapping
 
